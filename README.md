@@ -2,6 +2,7 @@
 
 This project need an API REST to work, link below:
 https://s3.amazonaws.com/caelum-online-public/865-angular/api.zip
+Unzip and run on server, to run on server open a terminal and digit npm start.
 
 # Alurapic
 
