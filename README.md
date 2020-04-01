@@ -1,3 +1,7 @@
+# About the project
+
+This project need an API REST to work, link below:
+
 # Alurapic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
